@@ -1,1 +1,4 @@
-Hello guys, how are you doing.git status or git add .Hi I am doing pr.
+
+Hello guys, how are you doing.Hi I am doing pr.
+We are working with a merge conflict resolution.
+
